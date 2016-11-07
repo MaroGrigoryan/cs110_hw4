@@ -1,0 +1,24 @@
+body{
+	background-image: url('http://cbimg6.com/graphics/09/09/75422b.jpg');
+	background-size: cover;
+	font-family: 'Indie Flower', cursive;
+	color:#FFFFFF;
+	text-align: center;
+}
+ul {
+	font-size: 30px;
+	display: block;
+	list-style: none;
+
+}
+.delete{
+	font-size: 25px;
+}
+.box{
+	width:25px;
+	height: 25px;
+}
+ul li:hover {
+	background-color: #FFFFFF;
+	color: #000000;
+}
